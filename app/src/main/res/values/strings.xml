@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sangeet</string>
+    <string name="sangeet">Sangeet</string>
+    <string name="login">Login</string>
+    <string name="voice_command"><u>Voice Command</u></string>
+    <string name="control_music_with_your_voice">Control Music With Your Voice</string>
+    <string name="face_recognition"><u>Face Recognition</u></string>
+    <string name="play_or_pause_the_music_with_face_recongition_feature">Play or Pause the Music with Face Recognition Feature.</string>
+    <string name="offline_music"><u>Offline Music</u></string>
+    <string name="play_music_anytime_and_anywhere">Play Music anytime and anywhere.</string>
+    <string name="register_now">Register Now</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="welcome_to_sangeet">Welcome To Sangeet</string>
+    <string name="name">Name</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_register">Already Register ?</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">LOGOUT</string>
+</resources>
