@@ -11,6 +11,6 @@ The app extract the .mp3 extension file from the Internal & External storage fro
  
  Disadvantage:  User cannot stream online music.
 
-How to Downlaod apk :
+How to Download apk :
        click on app-debug.apk ,
        then click on download
