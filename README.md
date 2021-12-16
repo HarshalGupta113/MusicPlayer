@@ -10,3 +10,7 @@ The app extract the .mp3 extension file from the Internal & External storage fro
       User can play and pause the song with the help of fingerprint. 
  
  Disadvantage:  User cannot stream online music.
+
+How to Downlaod apk :
+       click on app-debug.apk 
+       then clcidk on download
