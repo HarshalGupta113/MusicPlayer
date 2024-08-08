@@ -1,7 +1,5 @@
 # MusicPlayer
-Music player app with additional feature
-This Music player app will help the user to organize their music in this app. 
-The app extract the .mp3 extension file from the Internal & External storage from the user’s phone and display it in a Graphical User Interface.
+A feature-rich Music Player Android app designed to manage and play local MP3 files from both internal and external storage. The app includes advanced functionalities like Face Recognition to pause music if the user's face isn't recognized, Voice Control for hands-free operation, and Biometric support to play or pause music using fingerprints. Built using Java, this project emphasizes security and accessibility in a modern music player experience.
 1.	Face Recognition
        In this feature if the user’s face is not recognize by the camera then the music will stop automatically.
 2.	Voice Control
